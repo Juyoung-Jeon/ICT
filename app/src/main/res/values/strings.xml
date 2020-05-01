@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">ShareAbility</string>
+    <string name="kakao_app_key">5ccba285bb2685cfb8d75f5c06fc35c4</string>
 </resources>
